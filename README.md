@@ -90,6 +90,8 @@ ts开发者发的公告：
 
 <img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/a789e9fc1ce3b0216cd294552c981d1e.jpg" alt="a789e9fc1ce3b0216cd294552c981d1e.jpg" width="294">
 
+> 名字都打错了。
+
 ## 作者破防/自知之明？
 
 这时，ts开发者加入了Horion dev群聊。
