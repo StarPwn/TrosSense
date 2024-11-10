@@ -82,6 +82,14 @@ ts开发者发的公告：
 
 耀武扬威但是压根不了解耀的武是什么是这样的。
 
+## 遥遥领先
+
+“领先挂圈100年”。
+
+可能指的是造假技术吧。
+
+<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/a789e9fc1ce3b0216cd294552c981d1e.jpg" alt="a789e9fc1ce3b0216cd294552c981d1e.jpg" width="294">
+
 ## 作者破防/自知之明？
 
 这时，ts开发者加入了Horion dev群聊。
