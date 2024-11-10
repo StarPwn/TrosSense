@@ -81,3 +81,11 @@ ts开发者发的公告：
 或者说是有了自知之明。
 
 ![ts_dev_crash.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_crash.png)
+
+## 作者神權+拉黑
+
+這個作者居然是神權狗和拉黑狗？！
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" title="" alt="ts_dev_join_group.png" width="271">
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" title="" alt="ts_dev_join_group.png" width="271">
