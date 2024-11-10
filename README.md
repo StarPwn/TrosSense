@@ -96,4 +96,4 @@ ts开发者发的公告：
 
 > 2024/11/10 15:31 看来不是有了自知之明，是真的破防了
 > 
-> ![ts_dev_real_crash.png](C:\Users\nmap\Documents\GitHub\TrosSense\imgs\ts_dev_real_crash.png)
+> ![ts_dev_real_crash.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_real_crash.png)
