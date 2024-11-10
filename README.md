@@ -2,6 +2,22 @@
 
 ”TrosSense“以下简称“ts”。
 
+## 序章：关于ts的开发者
+
+存500元装图吧神机大战黑神话：
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="189">
+
+居然是神權狗和拉黑狗？！
+
+<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" alt="tsdevkickjpg" width="253">
+
+<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" alt="tsdevblackjpg" width="251">
+
+抽象群介紹好似奶龍：
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
+
 ## 老鼠传奇
 
 最讲究的一集，有后门居然说出来。
@@ -28,15 +44,11 @@ ts开发者发的公告：
 > 安卓的系统设置也有这个捏，是不是也算抄袭呢？
 > <img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/meta-inf_android_settings.jpg" alt="meta-inf_android_settings.jpg" width="211">
 
-
-
 ## PhotoShopUI(造假)
 
 我们在解包时发现，ts安装包中的`assets/imgs/back.img`竟然与ts开发者发布在**哔哩哔哩**
 
 的一个视频游戏界面一模一样，难道使用了[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)？
-
-
 
 这是ts 安装包中的`assets/imgs/back.img`：
 
@@ -82,20 +94,6 @@ ts开发者发的公告：
 
 ![ts_dev_crash.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_crash.png)
 
-## 作者神權+拉黑
-
-這個作者居然是神權狗和拉黑狗？！
-
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" title="" alt="ts_devkick.jpg" width="271">
-
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" title="" alt="ts_dev_black.jpg" width="271">
-
-## 作者存錢買電腦
-
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="271">
-
-## 抽象群介紹好似奶龍
-
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
-
-
+> 2024/11/10 15:31 看来不是有了自知之明，是真的破防了
+> 
+> ![ts_dev_real_crash.png](C:\Users\nmap\Documents\GitHub\TrosSense\imgs\ts_dev_real_crash.png)
