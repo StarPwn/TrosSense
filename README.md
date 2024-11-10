@@ -1,12 +1,14 @@
 # exposed: "TrosSense" 图片客户端
 
+Tip:蓝字可以点击。
+
 ”TrosSense“以下简称“ts”。
 
 ## 序章：关于ts的开发者
 
 存500元装图吧神机大战黑神话：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="189">
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="220">
 
 居然是神權狗和拉黑狗？！
 
@@ -39,9 +41,12 @@ ts开发者发的公告：
 
 ![c88a77fbddf3e4db1283d7dd885bbdea.jpg](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/c88a77fbddf3e4db1283d7dd885bbdea.jpg)
 
-令人感叹的是，该目录实际上是一个是 Android 系统用于验证 APK 文件的完整性并防止未经授权的修改的一个目录。换句话说，他是全局的，任何安装包都有，至于其目录下其他的`*.version` 文件，则是一种描述文件。只要使用这类库，都会存在。而这个库的名字是什么呢: **AndroidX**。这是 Google 为了兼容不同的 Android Sdk 版本所发行的一种不需要让开发者自己适配版本的解决方案，基本上现在的任何一个新版 Android 工程结构都会引用该包。
+> 作为中国人故意把系统语言调成英文，崇洋媚外？
+
+而最令人感叹的是，该目录实际上是一个是 Android 系统用于验证 APK 文件的完整性并防止未经授权的修改的一个目录。换句话说，他是全局的，任何安装包都有，至于其目录下其他的`*.version` 文件，则是一种描述文件。只要使用这类库，都会存在。而这个库的名字是什么呢: **AndroidX**。这是 Google 为了兼容不同的 Android Sdk 版本所发行的一种不需要让开发者自己适配版本的解决方案，基本上现在的任何一个新版 Android 工程结构都会引用该包。
 
 > 安卓的系统设置也有这个捏，是不是也算抄袭呢？
+> 
 > <img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/meta-inf_android_settings.jpg" alt="meta-inf_android_settings.jpg" width="211">
 
 ## PhotoShopUI(造假)
@@ -50,7 +55,7 @@ ts开发者发的公告：
 
 的一个视频游戏界面一模一样，难道使用了[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)？
 
-这是ts 安装包中的`assets/imgs/back.img`：
+这是ts安装包中的`assets/imgs/back.img`：
 
 ![back100.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100.png)
 
@@ -62,7 +67,7 @@ ts开发者发的公告：
 
 ![back100_video50.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100_video50.png)
 
-游戏界面也是惊人的吻合呢，看来真的使用了大名鼎鼎的[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)。
+惊人的吻合呢，看来真的使用了大名鼎鼎的[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)。
 
 耀武扬威但是没有实际能力实现是这样的。
 
