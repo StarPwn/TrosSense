@@ -86,6 +86,16 @@ ts开发者发的公告：
 
 這個作者居然是神權狗和拉黑狗？！
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" title="" alt="ts_dev_join_group.png" width="271">
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" title="" alt="ts_devkick.jpg" width="271">
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" title="" alt="ts_dev_join_group.png" width="271">
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" title="" alt="ts_dev_black.jpg" width="271">
+
+## 作者存錢買電腦
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="271">
+
+## 抽象群介紹好似奶龍
+
+<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
+
+
