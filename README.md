@@ -6,6 +6,11 @@ Tip:蓝字可以点击。
 
 ## 序章：关于ts的开发者
 
+抽象的[B站简介](https://space.bilibili.com/3546768430074157)
+
+![Bili](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/383593db912d92d8b1b7cd7eaf311b91.png)
+
+
 存500元装图吧神机大战黑神话：
 
 <img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="220">
@@ -19,6 +24,16 @@ Tip:蓝字可以点击。
 抽象群介紹好似奶龍：
 
 <img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
+
+假开源，真装逼？
+
+[Github仓库地址](https://github.com/Necole1337/TrosSense)
+
+![github](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/58be11a23fe06b2e4a390844e59aa393.png)
+
+![kook](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/afdb4c65713e36eb96cf944a13b0cbdc.png)
+
+![ZoomFly?](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/5425037ba8a4e97bc0374133387d8c04.png)
 
 ## 老鼠传奇
 
