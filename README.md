@@ -25,7 +25,7 @@ Tip:蓝字可以点击。
 
 <img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
 
-假开源，真装逼？
+## 假开源，真装逼？
 
 [Github仓库地址](https://github.com/Necole1337/TrosSense)
 
