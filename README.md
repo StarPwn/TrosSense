@@ -13,17 +13,17 @@ Tip:蓝字可以点击。
 
 存500元装图吧神机大战黑神话：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="220">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_dev_computer.png" title="" alt="ts_dev_computer.png" width="220">
 
 居然是神權狗和拉黑狗？！
 
-<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_devkick.jpg" alt="tsdevkickjpg" width="253">
+<img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_devkick.jpg" alt="tsdevkickjpg" width="253">
 
-<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_black.jpg" alt="tsdevblackjpg" width="251">
+<img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_dev_black.jpg" alt="tsdevblackjpg" width="251">
 
 抽象群介紹好似奶龍：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_group.jpg" title="" alt="ts_group.jpg" width="271">
 
 ## 假开源，真装逼？
 
@@ -39,22 +39,22 @@ Tip:蓝字可以点击。
 
 最讲究的一集，有后门居然说出来。
 
-![TrosSense_user_agreement_data_collection.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/TrosSense_user_agreement_data_collection.png)
+![TrosSense_user_agreement_data_collection.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/TrosSense_user_agreement_data_collection.png)
 
 > 节选自[TrosSense用户协议[TOS]&常见问题【】](/imgs/TrosSense用户协议[TOS]&常见问题【】.png)（是的，它原本就是这样命名的）。
-> <img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/shit_name.png" alt="shit_name.png" width="422">
+> <img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/shit_name.png" alt="shit_name.png" width="422">
 
 给你文件偷干净：
 
-![permission.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/permission.png)
+![permission.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/permission.png)
 
 ## META-INF对比法
 
 ts开发者发的公告：
 
-<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/meta-inf.jpg" alt="meta-inf.jpg" width="233">
+<img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/meta-inf.jpg" alt="meta-inf.jpg" width="233">
 
-![c88a77fbddf3e4db1283d7dd885bbdea.jpg](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/c88a77fbddf3e4db1283d7dd885bbdea.jpg)
+![c88a77fbddf3e4db1283d7dd885bbdea.jpg](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/c88a77fbddf3e4db1283d7dd885bbdea.jpg)
 
 > 作为中国人故意把系统语言调成英文，崇洋媚外？
 
@@ -62,7 +62,7 @@ ts开发者发的公告：
 
 > 安卓的系统设置也有这个捏，是不是也算抄袭呢？
 > 
-> <img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/meta-inf_android_settings.jpg" alt="meta-inf_android_settings.jpg" width="211">
+> <img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/meta-inf_android_settings.jpg" alt="meta-inf_android_settings.jpg" width="211">
 
 ## PhotoShopUI(造假)
 
@@ -72,15 +72,15 @@ ts开发者发的公告：
 
 这是ts安装包中的`assets/imgs/back.img`：
 
-![back100.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100.png)
+![back100.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/back100.png)
 
 这是ts作者[胎里素宝宝](https://space.bilibili.com/3546768430074157)发布在[哔哩哔哩上的视频](https://www.bilibili.com/video/BV1FfxeeQErV)截图：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/video.png" title="" alt="video.png" width="243">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/video.png" title="" alt="video.png" width="243">
 
 让我们把他们合在一起（视频截图透明度50%）：
 
-![back100_video50.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100_video50.png)
+![back100_video50.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/back100_video50.png)
 
 惊人的吻合呢，看来真的使用了大名鼎鼎的[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)。
 
@@ -92,13 +92,13 @@ ts开发者发的公告：
 
 以下聊天截图来自Horion dev群聊：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/brainwave_02.png" title="" alt="brainwave_02.png" width="235">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/brainwave_02.png" title="" alt="brainwave_02.png" width="235">
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/brainwave_03.png" title="" alt="brainwave_03.png" width="282">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/brainwave_03.png" title="" alt="brainwave_03.png" width="282">
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/brainwave_05.png" title="" alt="brainwave_05.png" width="337">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/brainwave_05.png" title="" alt="brainwave_05.png" width="337">
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/brainwave_01.png" title="" alt="brainwave_01.png" width="285">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/brainwave_01.png" title="" alt="brainwave_01.png" width="285">
 
 耀武扬威但是压根不了解耀的武是什么是这样的。
 
@@ -108,7 +108,7 @@ ts开发者发的公告：
 
 可能指的是造假技术吧。
 
-<img title="" src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/a789e9fc1ce3b0216cd294552c981d1e.jpg" alt="a789e9fc1ce3b0216cd294552c981d1e.jpg" width="294">
+<img title="" src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/a789e9fc1ce3b0216cd294552c981d1e.jpg" alt="a789e9fc1ce3b0216cd294552c981d1e.jpg" width="294">
 
 > 名字都打错了。
 
@@ -116,14 +116,14 @@ ts开发者发的公告：
 
 这时，ts开发者加入了Horion dev群聊。
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_join_group.png" title="" alt="ts_dev_join_group.png" width="271">
+<img src="https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_dev_join_group.png" title="" alt="ts_dev_join_group.png" width="271">
 
 刚进群看到群友如此评价，它破防了。
 
 或者说是有了自知之明。
 
-![ts_dev_crash.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_crash.png)
+![ts_dev_crash.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_dev_crash.png)
 
 > 2024/11/10 15:31 看来不是有了自知之明，是真的破防了
 > 
-> ![ts_dev_real_crash.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/ts_dev_real_crash.png)
+> ![ts_dev_real_crash.png](https://raw.githubusercontent.com/StarPwn/TrosSense/main/imgs/ts_dev_real_crash.png)
